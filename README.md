@@ -16,5 +16,6 @@ Some docs collection to help the work.
 ## Support for Pre-Ph.D.
 - [Econ RA Guide](https://raguide.github.io/)
 
-## others 
+## Others 
 - [Awesome Open Source for Ph.D.](https://awesomeopensource.com/projects/phd?categoryPage=17)
+- [A Survival Guide to a PhD](http://karpathy.github.io/2016/09/07/phd/), Karpathy, 2016
