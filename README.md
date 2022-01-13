@@ -1,4 +1,4 @@
-# Tools
+# Tools for Econ Ph.D.
 Some docs collection to help the work.
 ## Data and Coding
 - [Code and Data for the Social Sciences: Apractitioner's Guide](https://github.com/Jancyll/Tools/blob/main/Shapiro_CodeAndData.pdf), Gentzkow & Shapiro, 2014
@@ -12,3 +12,6 @@ Some docs collection to help the work.
 - [Becoming A Resilient Scientist](https://github.com/Jancyll/Tools/blob/main/FEEDBACK_RESILIENCE_SUMMER_2020.pdf), Milgram, 2020
 - [The ONLY way to stop procrastinating](https://www.youtube.com/watch?v=4x7MkLDGnu8&t=204s), Robbins, 2018
 - [One of the Best Talks Ever on Self-Motivation](https://www.youtube.com/watch?v=_BNDdamTDak), Robbins, 2018
+
+## Support for Pre-Ph.D.
+- [Econ RA Guide](https://raguide.github.io/)
