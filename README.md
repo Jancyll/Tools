@@ -7,3 +7,8 @@ Some docs collection to help the work.
 
 ## Writing Tips
 - [Writing Tips for Ph.D. Students](https://github.com/Jancyll/Tools/blob/main/cochrane_writing%20tips.pdf), Cochrane, 2005
+
+## Mental Health
+- [Becoming A Resilient Scientist](https://github.com/Jancyll/Tools/blob/main/FEEDBACK_RESILIENCE_SUMMER_2020.pdf), Milgram, 2020
+- [The ONLY way to stop procrastinating](https://www.youtube.com/watch?v=4x7MkLDGnu8&t=204s), Robbins, 2018
+- [One of the Best Talks Ever on Self-Motivation](https://www.youtube.com/watch?v=_BNDdamTDak), Robbins, 2018
