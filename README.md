@@ -15,3 +15,6 @@ Some docs collection to help the work.
 
 ## Support for Pre-Ph.D.
 - [Econ RA Guide](https://raguide.github.io/)
+
+## others 
+- [Awesome Open Source for Ph.D.](https://awesomeopensource.com/projects/phd?categoryPage=17)
